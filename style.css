@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+
+    background-image: url(img/A.jpg);
+    background-size: cover;
+    position: relative;
+    display:flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+
+
+}
+.q{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font:bolder;
+    margin-top: 10px;
+    color:black;
+}
+
+.one{
+    
+    background: rgb(155, 194, 231);
+    
+    border-radius: 10%;
+    height: 430px;
+    width: 450px;
+    border: solid black 2px;
+    text-align: center;
+    
+    
+ 
+  
+    
+    
+}
+
+.two{
+    padding:30px;
+    display:flex;
+  
+    justify-content: center;
+
+}
+.city{
+        background-color: white;
+        color: rgb(185, 41, 41);
+        font-weight: bold;
+        border-radius: 50px;
+    
+}
+.three{
+    background-color: white;
+    color: crimson;
+    font-weight: bold;
+    border-radius: 50px;
+
+}
+.four{
+    position: relative;
+    left: 5px;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.s{
+    font-size: 60px;
+}
+.six{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: bolder;
+    margin: 10px;
+    font-size: 40px;
+    font: bold;
+    color:black;
+}
